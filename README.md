@@ -43,9 +43,6 @@
         <a href="https://linkedin.com/in/mohamad-chahed-350b72341" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
-        <a href="https://app.hackthebox.com/profile/683654" target="_blank">
-          <img src="https://www.hackthebox.com/favicon.ico" alt="Hack The Box" height="30" width="30" />
-        </a>
       </td>
       <td>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -67,6 +64,4 @@
     </tr>
   </table>
 </div>
-
-
 
