@@ -32,6 +32,7 @@
 
 <br>
 
+<div style="text-align: center;">
 <table>
   <tr>
     <td align="left">
@@ -58,4 +59,4 @@
     </td>
   </tr>
 </table>
-
+</div>
