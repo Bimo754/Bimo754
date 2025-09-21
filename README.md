@@ -12,6 +12,8 @@
 	</p>
 </div>
 
+<br>
+
 <h2 align="center">Certificates</h2>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
@@ -19,7 +21,9 @@
   <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CAPT.png" style="width: 420px; height: auto;">
 </div>
 
-<h2 align="center">Wanna be like me? Hack like me! Check out my tools</h2>
+<br>
+
+<h2 align="center">Wanna hack like me? Check out my tools!</h2>
 
 
 <h3 align="center">
