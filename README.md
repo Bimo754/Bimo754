@@ -32,14 +32,9 @@
 
 <br>
 
-<p align="center">
-
-  <a href="https://linkedin.com/in/mohamad-chahed-350b72341" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+<p align="left">
+<a href="https://linkedin.com/in/mohamad-chahed-350b72341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-chahed-350b72341" height="30" width="40" /></a>
+<p align="right">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -56,3 +51,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
