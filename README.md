@@ -22,11 +22,16 @@
 <h2 align="center">Wanna be like me? Hack like me! Check out my tools</h1>
 
 
-### [Dshell](https://github.com/Bimo754/Dshell) - Reverse shell helper
-### [Dmap](https://github.com/Bimo754/Dmap) - Port scanner script
+<p align="center">
+  ### <a href="https://github.com/Bimo754/Dshell" target="_blank">Dshell</a> - Reverse shell helper
+</p>
+
+<p align="center">
+  ### <a href="https://github.com/Bimo754/Dmap" target="_blank">Dmap</a> - Port scanner script
+</p>
 
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
