@@ -3,12 +3,14 @@
 
 <br>
 
-<p align="center">
-  <a href="https://x.com/hackviserr/status/1962485599685714197" target="_blank">
-    <img src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" width="600">
-  </a>
-<img src="https://github.com/Bimo754/Bimo754/blob/main/Images/HTB.png" width="600">
-</p>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+	<p align="center">
+	  <a href="https://x.com/hackviserr/status/1962485599685714197" target="_blank">
+	    <img src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" width="400">
+	  </a>
+	<img src="https://github.com/Bimo754/Bimo754/blob/main/Images/HTB.png" width="400">
+	</p>
+</div>
 
 <h2 align="center">Certificates</h1>
 
