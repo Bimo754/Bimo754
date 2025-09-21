@@ -34,7 +34,7 @@
   <a href="https://github.com/Bimo754/Dmap" target="_blank">Dmap</a> - Port scanner script
 </h3>
 
-<br>
+<br><br>
 
 <div align="center">
   <table>
