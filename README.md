@@ -12,23 +12,23 @@
 	</p>
 </div>
 
-<h2 align="center">Certificates</h1>
+<h2 align="center">Certificates</h2>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CWSE.png" style="width: 420px; height: auto;">
   <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CAPT.png" style="width: 420px; height: auto;">
 </div>
 
-<h2 align="center">Wanna be like me? Hack like me! Check out my tools</h1>
+<h2 align="center">Wanna be like me? Hack like me! Check out my tools</h2>
 
 
-<p align="center">
-  ### <a href="https://github.com/Bimo754/Dshell" target="_blank">Dshell</a> - Reverse shell helper
-</p>
+<h3 align="center">
+  <a href="https://github.com/Bimo754/Dshell" target="_blank">Dshell</a> - Reverse shell helper
+</h3>
 
-<p align="center">
-  ### <a href="https://github.com/Bimo754/Dmap" target="_blank">Dmap</a> - Port scanner script
-</p>
+<h3 align="center">
+  <a href="https://github.com/Bimo754/Dmap" target="_blank">Dmap</a> - Port scanner script
+</h3>
 
 
 <br>
