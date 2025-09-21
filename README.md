@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bimo</h1>
-<h3 align="center">A world-top hacker | Embedded systems engineer</h3>
+<h3 align="center">One of the World’s Top Hackers | Embedded Systems Engineer</h3>
 
 <br>
 
