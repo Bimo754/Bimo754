@@ -24,10 +24,10 @@
 <p align="center">
   <ul style="list-style: none; padding: 0;">
     <li>
-      <a href="https://github.com/Bimo754/Dshell" target="_blank" style="font-size: 24px;"><strong>Dshell</strong></a> - Reverse shell helper
+      <a href="https://github.com/Bimo754/Dshell" target="_blank" style="font-size: 100px;"><strong>Dshell</strong></a> - Reverse shell helper
     </li>
     <li>
-      <a href="https://github.com/Bimo754/Dmap" target="_blank" style="font-size: 24px;"><strong>Dmap</strong></a> - Port scanner script
+      <a href="https://github.com/Bimo754/Dmap" target="_blank" style="font-size: 100px;"><strong>Dmap</strong></a> - Port scanner script
     </li>
   </ul>
 </p>
