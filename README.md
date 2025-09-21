@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bimo</h1>
 <h3 align="center">A world-top hacker | Embedded systems engineer</h3>
 
-<div style="text-align: center;"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">🔥 August Hackviser Hall of Fame 🔥<br><br>The competition is heating up, and these hackers are leading the charge in the eighth month of 2025:<br><br> 👑 1. afrijal – 1923 points<br> ⭐ 2. 0x4l0ha – 1725 points<br> 🔥 3. PhantomSploit – 1692 points<br> 💫 4. Bimo754 – 1629 points<br> ✨ 5. 2rki – 1471… <a href="https://t.co/ryiQpUCF7X">pic.twitter.com/ryiQpUCF7X</a></p>&mdash; Hackviser (@hackviserr) <a href="https://twitter.com/hackviserr/status/1962485599685714197?ref_src=twsrc%5Etfw">September 1, 2025</a></blockquote></div><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🔥 August Hackviser Hall of Fame 🔥<br><br>The competition is heating up, and these hackers are leading the charge in the eighth month of 2025:<br><br> 👑 1. afrijal – 1923 points<br> ⭐ 2. 0x4l0ha – 1725 points<br> 🔥 3. PhantomSploit – 1692 points<br> 💫 4. Bimo754 – 1629 points<br> ✨ 5. 2rki – 1471… <a href="https://t.co/ryiQpUCF7X">pic.twitter.com/ryiQpUCF7X</a></p>&mdash; Hackviser (@hackviserr) <a href="https://twitter.com/hackviserr/status/1962485599685714197?ref_src=twsrc%5Etfw">September 1, 2025</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <h1 align="center">Certificates</h1>
 
