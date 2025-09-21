@@ -21,6 +21,11 @@
 
 <h2 align="center">Wanna be like me? Hack like me! Check out my tools</h1>
 
+<p align="center">
+  <a href="https://github.com/Bimo754/Dshell" target="_blank">• Dshell</a>  - Reverse shell helper<br>
+  <a href="https://github.com/Bimo754/Dmap" target="_blank">• Dmap</a> - Port scanner script
+</p>
+
 
 <br><br>
 
