@@ -32,7 +32,7 @@
 
 <br>
 
-<div style="text-align: center;">
+<div style="text-align: center; align-items: center; align-self: center; align-content: center;">
 <table>
   <tr>
     <td align="left">
