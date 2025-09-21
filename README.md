@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bimo</h1>
 <h3 align="center">A world-top hacker | Embedded systems engineer</h3>
 
-<img align="center" src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" style="width: 420px; height: auto;">
+<p align="center">
+  <img src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" width="420">
+</p>
 
 <br>
 
