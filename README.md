@@ -6,8 +6,8 @@
 <h1 align="center">Certificates</h1>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CWSE.png" style="width: 300px; height: auto;">
-  <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CAPT.png" style="width: 300px; height: auto;">
+  <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CWSE.png" style="width: 350px; height: auto;">
+  <img src="https://github.com/Bimo754/Bimo754/blob/main/Certificates/CAPT.png" style="width: 350px; height: auto;">
 </div>
 
 <h1 align="center">Wanna be like me? Hack like me! Check out my tools</h1>
