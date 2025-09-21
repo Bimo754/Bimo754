@@ -8,7 +8,7 @@
 	  <a href="https://x.com/hackviserr/status/1962485599685714197" target="_blank">
 	    <img src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" width="400">
 	  </a>
-	<img src="https://github.com/Bimo754/Bimo754/blob/main/Images/HTB.png" width="250">
+	<img src="https://github.com/Bimo754/Bimo754/blob/main/Images/HTB.png" width="235">
 	</p>
 </div>
 
