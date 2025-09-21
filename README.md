@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bimo</h1>
 <h3 align="center">A world-top hacker | Embedded systems engineer</h3>
 
+<br>
+
 <p align="center">
-  <img src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" width="420">
+  <a href="https://x.com/hackviserr/status/1962485599685714197" target="_blank">
+    <img src="https://github.com/Bimo754/Bimo754/blob/main/Images/Hackviser.png" width="600">
+  </a>
 </p>
 
 <br>
